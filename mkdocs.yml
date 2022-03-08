@@ -1,0 +1,6 @@
+site_name: Yassine
+
+nav:
+    - 'index.md'
+    - 'about.md'
+theme: material
